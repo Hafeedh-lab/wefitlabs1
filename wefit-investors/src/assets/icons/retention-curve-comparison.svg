@@ -1,0 +1,17 @@
+<svg width="480" height="320" viewBox="0 0 480 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" rx="24" fill="#1F1F22"/>
+  <g opacity="0.6">
+    <path d="M60 80L420 80" stroke="#2D7FF9" stroke-opacity="0.2" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <path d="M60 130L420 130" stroke="#2D7FF9" stroke-opacity="0.2" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <path d="M60 180L420 180" stroke="#2D7FF9" stroke-opacity="0.2" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <path d="M60 230L420 230" stroke="#2D7FF9" stroke-opacity="0.2" stroke-width="1.5" stroke-dasharray="4 6"/>
+  </g>
+  <path d="M80 90C134 85 168 160 220 170C286 182 338 142 400 210" stroke="#FF6B6B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 90C120 160 170 210 230 220C290 230 340 200 400 120" stroke="#2ECC71" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="80" cy="90" r="6" fill="#FFFFFF"/>
+  <circle cx="400" cy="120" r="6" fill="#FFFFFF"/>
+  <circle cx="400" cy="210" r="6" fill="#FFFFFF"/>
+  <text x="88" y="40" fill="white" font-family="Poppins" font-size="18" font-weight="600">Retention after week 4</text>
+  <text x="290" y="140" fill="#2ECC71" font-family="Poppins" font-size="14" font-weight="600">weFit social cohorts</text>
+  <text x="240" y="205" fill="#FF6B6B" font-family="Poppins" font-size="14" font-weight="600">Typical solo apps</text>
+</svg>
