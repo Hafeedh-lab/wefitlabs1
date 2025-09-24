@@ -1,0 +1,5 @@
+node_modules/
+dist/
+wefit-investors/node_modules/
+wefit-investors/dist/
+.DS_Store
