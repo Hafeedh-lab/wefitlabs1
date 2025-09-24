@@ -1,0 +1,24 @@
+<svg width="720" height="480" viewBox="0 0 720 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="480" rx="32" fill="#11121A"/>
+  <g opacity="0.6">
+    <path d="M96 96V400" stroke="#2F3545" stroke-width="1.5" stroke-dasharray="4 8"/>
+    <path d="M216 96V400" stroke="#2F3545" stroke-width="1.5" stroke-dasharray="4 8"/>
+    <path d="M336 96V400" stroke="#2F3545" stroke-width="1.5" stroke-dasharray="4 8"/>
+    <path d="M456 96V400" stroke="#2F3545" stroke-width="1.5" stroke-dasharray="4 8"/>
+    <path d="M576 96V400" stroke="#2F3545" stroke-width="1.5" stroke-dasharray="4 8"/>
+  </g>
+  <path d="M96 148C180 140 216 180 288 216C360 252 432 276 528 308C624 340 648 352 672 360" stroke="#E74C3C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M96 128C180 164 228 212 300 252C372 292 468 324 564 336C660 348 660 340 672 336" stroke="#2ECC71" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="672" cy="336" r="10" fill="#2ECC71"/>
+  <circle cx="672" cy="360" r="10" fill="#E74C3C"/>
+  <text x="120" y="420" fill="#6E7691" font-family="'Poppins', sans-serif" font-size="16">Week 0</text>
+  <text x="252" y="420" fill="#6E7691" font-family="'Poppins', sans-serif" font-size="16">Week 1</text>
+  <text x="372" y="420" fill="#6E7691" font-family="'Poppins', sans-serif" font-size="16">Week 2</text>
+  <text x="492" y="420" fill="#6E7691" font-family="'Poppins', sans-serif" font-size="16">Week 3</text>
+  <text x="612" y="420" fill="#6E7691" font-family="'Poppins', sans-serif" font-size="16">Week 4</text>
+  <text x="120" y="72" fill="#F9FAFB" font-family="'Poppins', sans-serif" font-size="24" font-weight="600">Retention Curve Comparison</text>
+  <rect x="108" y="44" width="14" height="14" rx="4" fill="#2ECC71"/>
+  <text x="128" y="56" fill="#A0A0A0" font-family="'Poppins', sans-serif" font-size="14"> weFit Cohort</text>
+  <rect x="260" y="44" width="14" height="14" rx="4" fill="#E74C3C"/>
+  <text x="280" y="56" fill="#A0A0A0" font-family="'Poppins', sans-serif" font-size="14"> Industry Avg</text>
+</svg>
